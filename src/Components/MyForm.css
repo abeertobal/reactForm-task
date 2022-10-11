@@ -1,0 +1,18 @@
+.cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 12.5%;
+}
+
+.bb {
+    border-radius: 2px;
+    border: 2px solid chocolate;
+    text-align: center;
+    background-color: chocolate;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
